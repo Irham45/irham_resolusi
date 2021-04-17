@@ -4,6 +4,7 @@ rencana konten
  *ES6
  *framework js
  ^ vue
+ ^ react
 -struktur data dasar
 -membuat video php
  ^laravel
