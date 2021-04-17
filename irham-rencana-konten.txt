@@ -1,0 +1,5 @@
+rencana konten
+
+-membuat video js
+-membuat video php
+-membuat video simulasi jaringan
