@@ -1,0 +1,7 @@
+rencana konten
+
+-membuat video js
+ *ES6
+ *framework js
+-membuat video php
+-membuat video simulasi jaringan
