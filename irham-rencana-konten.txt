@@ -3,5 +3,6 @@ rencana konten
 -membuat video js
  *ES6
  *framework js
+-struktur data dasar
 -membuat video php
 -membuat video simulasi jaringan
