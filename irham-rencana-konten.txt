@@ -3,6 +3,8 @@ rencana konten
 -membuat video js
  *ES6
  *framework js
--struktur data dasar
+  ^angular
+  ^react
 -membuat video php
+ ^laravel
 -membuat video simulasi jaringan
